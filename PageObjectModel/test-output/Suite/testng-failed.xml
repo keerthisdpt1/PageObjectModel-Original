@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Suite]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="Test Page Object Model(failed)">
+    <classes>
+      <class name="com.Guru.TestCases.TC_HomePageTest_002">
+        <methods>
+          <include name="homePage_LoginID_Validation_Test"/>
+          <include name="setup"/>
+          <include name="teardown"/>
+        </methods>
+      </class> <!-- com.Guru.TestCases.TC_HomePageTest_002 -->
+    </classes>
+  </test> <!-- Test Page Object Model(failed) -->
+</suite> <!-- Failed suite [Suite] -->
